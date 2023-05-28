@@ -9,24 +9,22 @@ identifier ----------------------------- meaning
 										06 = Disgust, 07 = Fear
 	Intensity ------------------------  01 = Mild, 02 = Normal, 03 = String
 	Statement ------------------------  01 = "Barota beje geche"
-										English : It's twelve o'clock
+					    English : It's twelve o'clock
 
-										02 = "Ami agei jantam amonta hobe"
-										English : I knew someting like this
-										would happen.
+					    02 = "Ami agei jantam amonta hobe"
+					    English : I knew someting like this would happen.
 
-										03 = "e kemon upohar?"
-										English : What kind of gift is this?
+					    03 = "e kemon upohar?"
+					    English : What kind of gift is this?
 
-										04 = "Rastay etto jam"
-										English : The road is so jammed
+					    04 = "Rastay etto jam"
+					    English : The road is so jammed
 
-										05 = "Baghta edikei tere asche"
-										English : The tiger is coming here
+					    05 = "Baghta edikei tere asche"
+					    English : The tiger is coming here
 
 	Repetition -----------------------  01 = 1st repetition,
-										02 = 2nd repetition,
-										03 = 3rd repetition
-	Actor ----------------------------  01 = First actor, 02 = second actor
-										..... 50 = Fifty actor(odd-male,even-female)
+					    02 = 2nd repetition,
+					    03 = 3rd repetition
+	Actor ----------------------------  01 = First actor, 02 = second actor ... 50 = Fifty actor(odd-male,even-female)
 	
