@@ -23,9 +23,9 @@ You can use this dataset for Bangla speech emotion recognition tasks. Each voice
 
 ## License
 
-Specify the license under which your dataset is distributed. For example, you can use the [MIT License](https://opensource.org/licenses/MIT).
+<!--Specify the license under which your dataset is distributed. For example, you can use the [MIT License](https://opensource.org/licenses/MIT).-->
 
 ## Acknowledgments
 
-You can mention any acknowledgments, credits, or references to other works that were used in creating the dataset.
+<!--You can mention any acknowledgments, credits, or references to other works that were used in creating the dataset.-->
 
