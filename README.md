@@ -1,4 +1,4 @@
-#**banglaSER**
+#banglaSER
 ##Description of the filename convertion
 
 **identifier ----------------------------- meaning**
