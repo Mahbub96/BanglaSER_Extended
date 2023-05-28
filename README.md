@@ -3,9 +3,9 @@
 
 **identifier ----------------------------- meaning**
 
-	*`Mode` ------------------------------ `03` = `Audio-only`
- 	*`Statement Type` -------------------  `01` = `Scripted`
-	*`Emotion`  -------------------------  `01` = `Happy`, `02` = `Sad`, 03 = `Angry`,
+	* `Mode` ------------------------------ `03` = `Audio-only`
+ 	* `Statement Type` -------------------  `01` = `Scripted`
+	* `Emotion`  -------------------------  `01` = `Happy`, `02` = `Sad`, 03 = `Angry`,
 					    `04` = `Surprised`, `05` = `Neutral`,
 					    `06` = `Disgust`, `07` = `Fear`
 					    
