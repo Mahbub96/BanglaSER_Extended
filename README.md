@@ -2,7 +2,7 @@
 ##Description of the filename convertion
 
 **identifier ----------------------------- meaning**
-```
+
 	*`Mode` ------------------------------ `03` = `Audio-only`
  	*`Statement Type` -------------------  `01` = `Scripted`
 	*`Emotion`  -------------------------  `01` = `Happy`, `02` = `Sad`, 03 = `Angry`,
@@ -32,4 +32,4 @@
 					    
 	Actor ----------------------------  01 = First actor, 02 = second actor ... 50 = Fifty actor(odd-male,even-female)
 	
-```
+
