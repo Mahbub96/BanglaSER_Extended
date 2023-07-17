@@ -1,10 +1,21 @@
-# banglaSER
+<div align="center">
+  
+<img src="https://instagram.fdac80-1.fna.fbcdn.net/v/t51.2885-15/349451980_561910815868802_800017064493703245_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fdac80-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=W0yIT7jEa6MAX8AXVUa&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzExMjg2MTkyOTkyOTcwMjI1OA%3D%3D.2-ccb7-5&oh=00_AfDTUVG7FTBKQ-NayjbKXNt80Iz7MCFXuZRY0wZZHuUS0w&oe=6478F29D&_nc_sid=b3163e" alt="MarineGEO circle logo" style="height: 600; width:1200;"/>
 
-## Description
+# BanglaSER Extended
+BanglaSER Extended is an enhanced version of the original BanglaSER dataset, now expanded to include fear and disgust as new emotion classes. With these additions, the dataset provides a comprehensive collection of audio files for emotion classification in Bengali speech.
+The extended dataset builds upon the original emotion classes of happy, sad, angry, neutral, and surprised, offering a broader and more nuanced understanding of emotions expressed in Bengali.
+</div>
 
-This repository contains the Bangla Speech Emotion Recognition (banglaSER_ext) dataset. The dataset consists of Bangla voice samples categorized according to the following identifiers:
+<br> <br>
 
-| Identifier      | Meaning          |
+### Voice Sample Identifiers According to Catagories
+
+<br>
+Example Sample File Name : 03-01-06-01-04-01-36.wav
+<br><br>
+
+| Identifier         | Meaning          |
 |-----------------|------------------|
 | Mode            | `03` (Audio-only)|
 | Statement Type  | `01` (Scripted)  |
@@ -14,14 +25,35 @@ This repository contains the Bangla Speech Emotion Recognition (banglaSER_ext) d
 | Repetition      | `01` (1st repetition), `02` (2nd repetition), `03` (3rd repetition) |
 | Actor           | `01` (First actor), `02` (Second actor), ..., `50` (Fifty actor) - Odd numbers represent male actors, and even numbers represent female actors. |
 
-## Usage
+<br> <br>
 
-You can use this dataset for Bangla speech emotion recognition tasks. Each voice sample is labeled with the respective emotion, intensity, statement, repetition, and actor information.
+### Specifications
+| Identifier            | Meaning          |
+|-----------------------|------------------|
+| Type of data          | Digital Audio Files|
+| Data Fomat            | Waveform Audio File Format (.wav)|
+| Data Collection Tools | Smartphone, Microphone, Headset, Laptop, Audacity|
+| Data Source Location  | Dhaka, Kishoreganj, Jhinaidah, Chottogram, Mymensingh |
+| Data Accessibility    | https://github.com/Mahbub96/banglaSER_ext/ |
 
-## License
+<br> <br>
+
+### Benefits
+By incorporating fear and disgust, BanglaSER Extended enables more accurate identification and classification of emotions, empowering machine learning models to better interpret emotional states in Bengali speech.
+
+<br> <br>
+
+### Usage
+Researchers and practitioners can utilize this dataset to develop advanced models for tasks such as human-computer interaction, sentiment analysis, and affective computing, fostering culturally relevant and inclusive emotion recognition systems.
+
+<br> <br>
+
+### License
 
 <!--Specify the license under which your dataset is distributed. For example, you can use the [MIT License](https://opensource.org/licenses/MIT).-->
 
-## Acknowledgments
+
+
+### Acknowledgments
 
 <!--You can mention any acknowledgments, credits, or references to other works that were used in creating the dataset.-->
