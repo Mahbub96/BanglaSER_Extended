@@ -1,0 +1,21 @@
+## Pending Editing of Actors Name and corresponding Number
+Name---------Number
+
+##Complete Editing of Actors Name and corresponding Number
+
+Name---------Number
+
+parvez		- 35
+Alvi Mamun	- 36
+Ridom		- 39
+Riya		- 41
+Reed		- 42
+Dhee		- 43
+Tofayel		- 44
+Parna		- 45
+Azim		- 46
+jeshan		- 47
+shameem		- 48
+Razon		- 49
+
+
