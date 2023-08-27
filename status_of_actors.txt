@@ -1,5 +1,8 @@
 ## Pending Editing of Actors Name and corresponding Number
 Name---------Number
+Shazib		- 37
+Fardin		- 38
+Ria		- 40
 
 ##Complete Editing of Actors Name and corresponding Number
 
