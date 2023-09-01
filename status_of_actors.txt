@@ -2,7 +2,7 @@
 Name---------Number
 Shazib		- 37
 Fardin		- 38
-Ria		- 40
+Ria			- 40
 
 ##Complete Editing of Actors Name and corresponding Number
 
@@ -20,5 +20,6 @@ Azim		- 46
 jeshan		- 47
 shameem		- 48
 Razon		- 49
+Firoja		- 50
 
 
