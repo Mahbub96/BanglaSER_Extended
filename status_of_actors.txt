@@ -24,3 +24,9 @@ Firoja		- 50
 Sumi		- 51
 
 
+##Completed Male and Female Actors
+
+###Male		- 9
+###Female	- 5
+
+##Total Data - 252
