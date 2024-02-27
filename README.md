@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   
 <img src="https://instagram.fdac80-1.fna.fbcdn.net/v/t51.2885-15/349451980_561910815868802_800017064493703245_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fdac80-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=W0yIT7jEa6MAX8AXVUa&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzExMjg2MTkyOTkyOTcwMjI1OA%3D%3D.2-ccb7-5&oh=00_AfDTUVG7FTBKQ-NayjbKXNt80Iz7MCFXuZRY0wZZHuUS0w&oe=6478F29D&_nc_sid=b3163e" alt="MarineGEO circle logo" style="height: 600; width:1200;"/>
@@ -27,8 +26,6 @@ The extended dataset builds upon the original emotion classes of happy, sad, ang
 <br>
 Example Sample File Name : 03-01-06-01-04-01-36.wav
 <br><br>
->>>>>>> 7ea6eedc0dc657f84ff0da28b3382bfc049c2713
-
 ### Voice Sample Identifiers According to Catagories
 
 <br>
